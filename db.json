@@ -1,18 +1,8 @@
 {
   "blogs": [
-    { "id": 1, "title": "Hello World", "author": "Raveena Kale" },
-    { "id": 2, "title": "Hello INDIA", "author": "abcdefghi" }
+    { "id": 2, "title": "Hello", "author": "abcde" }
   ],
-  "users": [
-    {
-      "id": 1,
-      "name": "Raveena Kale",
-      "phone": 1234567890,
-      "location": "mumbai",
-      "email": "raveenar.kale@gmail.com",
-      "password": "Raveena1234@"
-    }
-  ],
+  
   "movies": [
     {
       "id": 1,
@@ -497,12 +487,6 @@
     }
   ],
 
-  "feeds": [
-    {
-      "id": 1,
-      "title": "Blog 1",
-      "author": "Raveena Kale"
-    }
-  ],
+ 
   "watchlist": []
 }
